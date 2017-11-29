@@ -1,0 +1,13 @@
+textarea{
+  height:37vh;
+  width:95vw;
+  padding:auto;
+}
+
+button{
+  height:2em;
+  width:10em;
+  margin-top:2vh;
+  margin-left:4vw;
+  padding:auto;
+}
